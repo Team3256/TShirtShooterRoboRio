@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.buttons.JoystickButton"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team3256.robot.subsystems.Drivetrain"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team3256.robot.OI"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team3256.robot.Robot"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.command.CommandGroup"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team3256.robot.commands.FireAll"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.DoubleSolenoid.Value"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Relay"/>
+<fullyQualifiedTypeName name="org.usfirst.frc.team3256.robot.subsystems.Shooter"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Relay.Value"/>
+<fullyQualifiedTypeName name="edu.wpi.first.wpilibj.Relay.Direction"/>
+</qualifiedTypeNameHistroy>
